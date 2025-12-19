@@ -1,0 +1,7 @@
+{
+  "name": "Estudio Jurídico Paredes Benedetti",
+  "description": "Sitio web profesional de alto nivel para un estudio jurídico especializado en derechos reales, sucesiones y blockchain legal.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
